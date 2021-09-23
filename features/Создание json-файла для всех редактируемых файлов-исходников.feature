@@ -25,11 +25,10 @@
 
     Когда Я добавляю параметр "<КаталогПроекта>/src/main.os" для команды "oscript"
     И Я добавляю параметр "json" для команды "oscript"
-    И Я добавляю параметр "--src <КаталогПроекта>\fixtures\simple-config" для команды "oscript"
+    И Я добавляю параметр "--src <КаталогПроекта>/fixtures/simple-config" для команды "oscript"
     И Я добавляю параметры для команды "oscript"
     # | <КаталогПроекта>/src/main.os |
     # | json |
-    # | --src "C:\Users\aayukhanov\Documents\repo\marketplace_server\back\src\cf" |
     # | --src КаталогПроекта\fixtures |
     | result.json |
     И Я выполняю команду "oscript"
