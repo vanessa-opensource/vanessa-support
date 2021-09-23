@@ -1,6 +1,11 @@
 # Vanessa-support
 
+[![Тестирование](https://github.com/vanessa-opensource/vanessa-support/actions/workflows/testing.yml/badge.svg)](https://github.com/vanessa-opensource/vanessa-support/actions/workflows/testing.yml)
+[![GitHub release](https://img.shields.io/github/release/artbear/1commands.svg)](https://github.com/artbear/1commands/releases)
+
 Приложение командной строки для генерации различных файлов на основании информации о поддержке метаданных в исходниках 1С-конфигурации в форматах Конфигуратор или EDT.
+
+>[Vanessa open-source![Chat on Telegram vanessa_opensource_chat](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/vanessa_opensource_chat) или [oscript_library ![Chat on Telegram oscript_library](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/oscript_library) - в этих чатах вы можете задавать любые вопросы разработчикам и активным участникам.
 
 ## Возможности
 
