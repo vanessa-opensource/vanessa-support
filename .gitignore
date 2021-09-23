@@ -9,3 +9,5 @@ out
 .gitattributes
 exec.log
 *.ospx
+coverage/
+bdd-exec.xml
