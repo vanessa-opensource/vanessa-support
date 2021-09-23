@@ -54,6 +54,9 @@ jobs:
 
       - name: Публикация в hub.oscript.io
         shell: bash
-        run: opm push -f ./${{ env.PACKAGE_MASK }} --token ${{ env.TOKEN }} -c stable
+        run: |
+          # след.строка нужна, пока opm без кодов возврата поставляется с 1script
+          opm install opm
+          opm push -f ./${{ env.PACKAGE_MASK }} --token ${{ env.TOKEN }} -c stable
         env:
           TOKEN: ${{ secrets.OSHUB_TOKEN }}
