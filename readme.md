@@ -1,7 +1,12 @@
 # Vanessa-support
 
 [![Тестирование](https://github.com/vanessa-opensource/vanessa-support/actions/workflows/testing.yml/badge.svg)](https://github.com/vanessa-opensource/vanessa-support/actions/workflows/testing.yml)
-[![GitHub release](https://img.shields.io/github/release/artbear/1commands.svg)](https://github.com/artbear/1commands/releases)
+[![GitHub release](https://img.shields.io/github/release/vanessa-opensource/vanessa-support.svg)](https://github.com/vanessa-opensource/vanessa-support/releases)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/vanessa-opensource/vanessa-support/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5?style=flat-square)](https://github.com/vanessa-opensource/vanessa-support/actions)
+[![Статус Порога Качества](https://sonar.openbsl.ru/api/project_badges/measure?project=vanessa-support&metric=alert_status)](https://sonar.openbsl.ru/dashboard?id=vanessa-support)
+[![Покрытие](https://sonar.openbsl.ru/api/project_badges/measure?project=vanessa-support&metric=coverage)](https://sonar.openbsl.ru/dashboard?id=vanessa-support)
+<!-- [![Технический долг](https://sonar.openbsl.ru/api/project_badges/measure?project=vanessa-support&metric=sqale_index)](https://sonar.openbsl.ru/dashboard?id=vanessa-support) -->
+[![Строки кода](https://sonar.openbsl.ru/api/project_badges/measure?project=vanessa-support&metric=ncloc)](https://sonar.openbsl.ru/dashboard?id=vanessa-support)
 
 Приложение командной строки для генерации различных файлов на основании информации о поддержке метаданных в исходниках 1С-конфигурации в форматах Конфигуратор или EDT.
 
