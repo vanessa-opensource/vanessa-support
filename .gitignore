@@ -11,3 +11,4 @@ exec.log
 *.ospx
 coverage/
 bdd-exec.xml
+oscript_modules/
