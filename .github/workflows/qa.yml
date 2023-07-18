@@ -56,7 +56,7 @@ jobs:
         id: extract_version
 
       - name: Установка Sonar-scanner
-        uses: warchant/setup-sonar-scanner@v3
+        uses: warchant/setup-sonar-scanner@v5
 
       # Анализ проекта в SonarQube (ветка)
       - name: Анализ в SonarQube (branch)
